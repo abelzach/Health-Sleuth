@@ -3,8 +3,6 @@ import pandas as pd
 from sklearn import datasets
 from sklearn.ensemble import RandomForestRegressor
 from PIL import Image
-import time
-
 st.markdown("""
 <style>
 body {
